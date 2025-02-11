@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gomeztobiasl@outlook.com**
 
-- 📄 Know about my experiences [Student at the "Universidad Nacional de La Matanza," pursuing a degree in Computer Engineering. I graduated from "PUERTA 18" after completing the Full Stack Web Development course. I was awarded a scholarship for Digital House, where I also graduated from the Full Stack Web Development program.]
+- 📄 Know about my experiences _**Student at the "Universidad Nacional de La Matanza," pursuing a degree in Computer Engineering. I graduated from "PUERTA 18" after completing the Full Stack Web Development course. I was awarded a scholarship for Digital House, where I also graduated from the Full Stack Web Development program.**_
 
 - ⚡ Fun fact **🕶️ I wore glasses since I was 8 years old, but now I don’t anymore... maybe I’m Peter Parker and I just haven’t discovered my superpowers yet. 🕷️👀**
 
